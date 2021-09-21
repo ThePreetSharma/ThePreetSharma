@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThePreetSharma
 - 👀 I’m interested in Python Programming and Computer Networks
-- 🌱 I’m currently learning Django and building an ECommerce 
+- 🌱 I’m currently learning Frontend Web Dev and building an Portfolio 
 - 💞️ I’m not looking to collaborate right now
-- 📫 How to reach me -> mail me @ thisispreetsharma21@gmail.com 
+- 📫 How to reach me -> mail me -> thepreetsharma@gmail.com 
 
 <!---
 ThePreetSharma/ThePreetSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
